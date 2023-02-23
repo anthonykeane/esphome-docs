@@ -214,6 +214,7 @@ Next, create a new ``custom`` sensor platform entry like this:
 
       sensors:
         name: "My Custom Sensor"
+        id: my_custom_sensor
 
 Let's break this down:
 
